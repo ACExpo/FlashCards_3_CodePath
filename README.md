@@ -7,7 +7,7 @@ Flash cards 3
 ### App Walk-though
 
 
-<img src="https://github.com/ACExpo/FlashCards_3_CodePath/commit/8845e08761fda0d41622ce917c6232a871a2d17a" width=200><br>
+<img src="ACE Project flash 3.gif" width=200><br>
 
 
 
