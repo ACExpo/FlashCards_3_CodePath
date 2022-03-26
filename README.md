@@ -7,7 +7,7 @@ Flash cards 3
 ### App Walk-though
 
 
-<img src="ACE Project flash 3.gif" width=200><br>
+<img src="ACE Project flash.gif" width=200><br>
 
 
 
